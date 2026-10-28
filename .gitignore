@@ -36,8 +36,8 @@ yarn-error.log*
 next-env.d.ts
 
 # scratch / temp root artifacts
-herophotos
-pdf_extracted
+/herophotos
+/pdf_extracted
 shoe_angle*.png
 shoe_angle*.jpg
 test_shoe.jpg
